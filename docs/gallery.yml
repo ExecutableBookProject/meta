@@ -165,3 +165,7 @@
   repository: https://github.com/bvanderlei/jupyter-guide-to-linear-algebra
   image: https://bvanderlei.github.io/jupyter-guide-to-linear-algebra/_static/reflection_logo.png
   website: https://bvanderlei.github.io/jupyter-guide-to-linear-algebra/
+- name: "Python Programming And Numerical Methods: A Guide For Engineers And Scientists"
+  image: https://pythonnumericalmethods.berkeley.edu/_static/book_cover.jpg
+  website: https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
+
