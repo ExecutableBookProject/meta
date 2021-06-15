@@ -173,3 +173,7 @@
   repository: https://github.com/euroargodev/argoonlineschool
   image: https://euroargodev.github.io/argoonlineschool/_static/logoAoS.png
   website: https://euroargodev.github.io/argoonlineschool
+- name: "AI World"
+  repository: https://github.com/xinetzone/ai-world
+  image: https://xinetzone.github.io/ai-world/_static/logo.jpg
+  website: https://xinetzone.github.io/ai-world
